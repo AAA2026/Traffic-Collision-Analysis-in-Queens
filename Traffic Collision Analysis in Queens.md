@@ -1,6 +1,6 @@
-# Big Data Project: Traffic Collision Analysis
+# Traffic Collision Analysis
 
-This project focuses on analyzing traffic collision data, integrating various data sources, and applying big data processing techniques to derive insights. The primary goal is to preprocess, merge, and analyze collision, weather, and traffic data to identify patterns and potential contributing factors to traffic incidents.
+This project focuses on analyzing traffic collision data in Queens, New York. Integrating various data sources, and applying big data processing techniques to derive insights. The primary goal is to preprocess, merge, and analyze collision, weather, and traffic data to identify patterns and potential contributing factors to traffic incidents.
 
 ## Project Structure
 
