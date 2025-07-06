@@ -31,8 +31,8 @@ To set up and run this project, follow these steps:
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/bigdata_project.git
-    cd bigdata_project
+    git clone https://github.com/AAA2026/Traffic-Collision-Analysis-in-Queens.git
+    cd Traffic-Collision-Analysis-in-Queens
     ```
 
 2.  Install the necessary Python packages:
