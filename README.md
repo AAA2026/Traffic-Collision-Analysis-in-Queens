@@ -51,18 +51,9 @@ To set up and run this project, follow these steps:
     ```
 
 2.  Open the `.ipynb` files in your browser and run the cells sequentially to execute the data preprocessing, merging, feature engineering, and Spark-based analysis steps.
-
-## Contributing
-
+---------------------------------------------------------------------------------------------
 Contributions are welcome! Please feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details (if applicable).
-
-## Contact
-
-For any questions or inquiries, please contact [Your Name/Email/GitHub Profile].
+For any questions or inquiries, please contact [abdalaalaa17@gmail.com].
 
 
 
