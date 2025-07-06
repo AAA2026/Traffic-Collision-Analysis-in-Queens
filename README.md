@@ -2,29 +2,9 @@
 
 This project focuses on analyzing traffic collision data in Queens, New York. Integrating various data sources, and applying big data processing techniques to derive insights. The primary goal is to preprocess, merge, and analyze collision, weather, and traffic data to identify patterns and potential contributing factors to traffic incidents.
 
-## Project Structure
-
-This repository contains several Jupyter notebooks and a dataset, each serving a specific purpose in the data analysis pipeline:
-
-*   `dataset.csv`: The primary dataset containing raw collision information.
-*   `preprocessing_collisions_data.ipynb`: Notebook for cleaning and preprocessing the collision dataset.
-*   `Weather_Preprocessing.ipynb`: Notebook dedicated to preprocessing weather-related data that will be integrated with the collision data.
-*   `preprocessing_traffic_data.ipynb`: Notebook for preprocessing traffic flow data.
-*   `Merge_data (2).ipynb`: Notebook for merging the preprocessed collision, weather, and traffic datasets.
-*   `Feature_Engineering_+_Merging_(part_2) (1).ipynb`: This notebook likely continues the data merging process and focuses on creating new features from the combined dataset.
-*   `Spark_Training.ipynb`: A Jupyter notebook demonstrating the use of Apache Spark for big data processing, likely for scalable data analysis or machine learning tasks.
-*   `Paper_p2.pdf`: A research paper or document related to the project, possibly detailing methodologies, findings, or background information.
-
 ## Getting Started
 
 To set up and run this project, follow these steps:
-
-### Prerequisites
-
-*   Python 3.x
-*   Jupyter Notebook
-*   Apache Spark (for `Spark_Training.ipynb`)
-*   Required Python libraries (e.g., pandas, numpy, pyspark, etc.)
 
 ### Installation
 
