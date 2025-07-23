@@ -33,7 +33,7 @@ To set up and run this project, follow these steps:
 2.  Open the `.ipynb` files in your browser and run the cells sequentially to execute the data preprocessing, merging, feature engineering, and Spark-based analysis steps.
 ---------------------------------------------------------------------------------------------
 Contributions are welcome! Please feel free to open issues or submit pull requests.
-For any questions or inquiries, please contact [abdalaalaa17@gmail.com].
+For any questions or inquiries, please contact: [abdalaalaa17@gmail.com].
 
 
 
